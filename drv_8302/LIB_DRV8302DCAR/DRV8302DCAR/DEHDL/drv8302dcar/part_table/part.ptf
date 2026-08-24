@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8302DCAR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8302DCAR" (!) = "", "SOP50P810X120-57N", "Small Outline Packages", "595-DRV8302DCAR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8302DCAR?qs=UMk2QrKu%2FwyEhbV7PXJXLQ%3D%3D", "DRV8302DCAR", "https://www.arrow.com/en/products/drv8302dcar/texas-instruments?utm_currency=USD&region=nac", "3-Phase Brushless Motor Pre-Driver with Dual Current Sense Amps and Buck Converter (PWM Ctrl)", "http://www.ti.com/lit/gpn/drv8302", "1.2 mm"
+END_PART
+
+END.

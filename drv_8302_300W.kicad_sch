@@ -1,0 +1,746 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "bbb7fa89-2bc5-4f6b-b641-37d1094d6de4")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 168.91 53.34) (xy 198.12 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b41d530-dec1-4dd8-853f-ca52bb871472")
+	)
+	(wire
+		(pts
+			(xy 168.91 58.42) (xy 198.12 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c881114-1d8f-483c-97fd-7c38ae3a2d48")
+	)
+	(wire
+		(pts
+			(xy 168.91 81.28) (xy 198.12 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c528dc4-d6bd-472b-90bf-9f9698f29d3d")
+	)
+	(wire
+		(pts
+			(xy 168.91 78.74) (xy 198.12 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48f6eb72-4761-4b29-be71-5c1aef416bee")
+	)
+	(wire
+		(pts
+			(xy 168.91 45.72) (xy 198.12 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b9b3cd2-ff16-4530-85a9-05eac3506dae")
+	)
+	(wire
+		(pts
+			(xy 168.91 76.2) (xy 198.12 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55ab3876-7bd7-4c17-90f8-36734f2ff718")
+	)
+	(wire
+		(pts
+			(xy 168.91 55.88) (xy 198.12 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e1fac90-a181-4c6e-bf13-bd023bf07ce1")
+	)
+	(wire
+		(pts
+			(xy 168.91 43.18) (xy 198.12 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d6dbccf-a4ae-436a-b69a-010fec349d01")
+	)
+	(wire
+		(pts
+			(xy 168.91 66.04) (xy 198.12 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a7cff7b4-335b-4e50-aa4d-670cbdd8f12d")
+	)
+	(wire
+		(pts
+			(xy 168.91 48.26) (xy 198.12 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2863ed1-af55-413e-aeae-8cf1524bd74c")
+	)
+	(wire
+		(pts
+			(xy 168.91 63.5) (xy 198.12 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baae4742-3da1-49e3-857a-0ae1ed5ac55d")
+	)
+	(wire
+		(pts
+			(xy 168.91 68.58) (xy 198.12 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd245064-61d8-4bd1-bf54-681b16184e33")
+	)
+	(wire
+		(pts
+			(xy 168.91 60.96) (xy 198.12 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6cd3089-1e96-4761-878a-1abf46c77859")
+	)
+	(wire
+		(pts
+			(xy 168.91 83.82) (xy 198.12 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da8d2441-4a1f-4aca-a747-9a7b7cb47c0b")
+	)
+	(wire
+		(pts
+			(xy 168.91 50.8) (xy 198.12 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1736c08-1256-4200-84ab-633fa5d33e29")
+	)
+	(wire
+		(pts
+			(xy 168.91 71.12) (xy 198.12 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5dde271-b369-48d3-b8d8-68cb65ccc0fd")
+	)
+	(sheet
+		(at 142.24 40.64)
+		(size 26.67 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2dbd8067-297e-42ea-85d1-35b99c0c5480")
+		(property "Sheetname" "DRV_8302"
+			(at 142.24 39.9284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 142.24 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "DC_Cal" input
+			(at 142.24 43.18 180)
+			(uuid "6518ae72-c681-49d9-838b-94981045000b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "En_Gate" input
+			(at 142.24 45.72 180)
+			(uuid "5341283d-a6d6-4906-bf03-70d8a644a95b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSFET_AL" output
+			(at 168.91 50.8 0)
+			(uuid "8f98f2af-4427-468a-ba71-90bfcf003bb1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSFET_BH" output
+			(at 168.91 55.88 0)
+			(uuid "5e899522-20b3-4131-86d3-bc4e23cef2dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSFET_BL" output
+			(at 168.91 60.96 0)
+			(uuid "b48957bd-5012-4788-913e-7396695463f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSFET_CH" output
+			(at 168.91 66.04 0)
+			(uuid "4484eaf1-cc38-4a32-aeff-0d00d395ff78")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSFET_CL" output
+			(at 168.91 71.12 0)
+			(uuid "9f5912a7-0b94-4c48-9b5a-981ee256e912")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "M_PWM_AH" output
+			(at 168.91 43.18 0)
+			(uuid "5c999bf0-b46e-46e7-a22c-a6dece0a33da")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "M_PWM_AL" output
+			(at 168.91 48.26 0)
+			(uuid "0024e8f8-bb8d-4f92-a7b1-e5be40f8b129")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "M_PWM_BH" output
+			(at 168.91 53.34 0)
+			(uuid "59b6c6ff-69fa-4b83-87a9-781ba8cd88ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "M_PWM_BL" output
+			(at 168.91 58.42 0)
+			(uuid "3aea1352-2f51-4dbd-b857-c53bf41926e0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "M_PWM_CH" output
+			(at 168.91 63.5 0)
+			(uuid "f8101f8a-a193-4744-b6c9-e6762a57967c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "M_PWM_CL" output
+			(at 168.91 68.58 0)
+			(uuid "1fa7c439-ba04-4012-9d81-9aab943c6ed9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "nFault" output
+			(at 142.24 48.26 180)
+			(uuid "17271a6f-724f-41a6-b979-793597b903e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "noctw" output
+			(at 142.24 50.8 180)
+			(uuid "4610b0f5-c466-4238-9586-a9fbe4733ca2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_AH" input
+			(at 142.24 57.15 180)
+			(uuid "aa083262-5b69-4162-b35e-181cf90c1e66")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_AL" input
+			(at 142.24 59.69 180)
+			(uuid "3ecad296-e8dd-41ad-b302-ab8a7cbad2fb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_BH" input
+			(at 142.24 62.23 180)
+			(uuid "63ca7fab-767a-407e-b3cb-f69a381925ce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_BL" input
+			(at 142.24 64.77 180)
+			(uuid "1dfeb1e0-f00e-4264-a844-3089f17ffcbc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_CH" input
+			(at 142.24 67.31 180)
+			(uuid "f701c00a-815d-460a-96eb-f9c6acfda708")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_CL" input
+			(at 142.24 69.85 180)
+			(uuid "4979db45-2039-475c-9e32-f1f5e26ee7ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "pwrgd" input
+			(at 142.24 53.34 180)
+			(uuid "ba614c7a-8763-4424-8082-50b45faa9435")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SH_AH" input
+			(at 168.91 76.2 0)
+			(uuid "22073c0f-d192-4ea2-aabf-cc6f9d969ed1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SH_AL" input
+			(at 168.91 78.74 0)
+			(uuid "47bdde7d-e2e7-4e02-b4cc-c4b18ae667eb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SH_BH" input
+			(at 168.91 81.28 0)
+			(uuid "a67e22a9-9018-4c04-b655-e3078414e731")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SH_BL" input
+			(at 168.91 83.82 0)
+			(uuid "f7ff0462-6e4f-4df0-95a8-ce14e2a677fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SO1" output
+			(at 142.24 76.2 180)
+			(uuid "f83c1653-aada-428f-8613-e2ca23b624c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SO2" output
+			(at 142.24 78.74 180)
+			(uuid "754de7f0-0085-47ff-933d-f5723ed0c06b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MOSFET_AH" output
+			(at 168.91 45.72 0)
+			(uuid "8a90f8c9-a690-4c76-aaae-8b4495c7f780")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "drv_8302_300W"
+				(path "/bbb7fa89-2bc5-4f6b-b641-37d1094d6de4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 40.64)
+		(size 29.21 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b09d27e8-4dba-4174-ae3b-fd81d4791496")
+		(property "Sheetname" "power_mosfet"
+			(at 198.12 39.9284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_mosfet.kicad_sch"
+			(at 198.12 88.2146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "G_MOSFET_AH" input
+			(at 198.12 45.72 180)
+			(uuid "a2aa8d74-d1b4-4a13-b544-b16360dbf955")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "G_MOSFET_AL" input
+			(at 198.12 50.8 180)
+			(uuid "29744462-5d25-490f-8f9b-d3206cda67f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "G_MOSFET_BH" input
+			(at 198.12 55.88 180)
+			(uuid "4c8b657e-ceb8-4331-92a1-d6c98271a601")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "G_MOSFET_BL" input
+			(at 198.12 60.96 180)
+			(uuid "eaa87481-b688-43d5-907f-cb9df2b01fbd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "G_MOSFET_CH" input
+			(at 198.12 66.04 180)
+			(uuid "2ac32aa2-286c-465d-88f0-8b4ffde12cf3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "G_MOSFET_CL" input
+			(at 198.12 71.12 180)
+			(uuid "a6a5eada-d45c-4358-99bb-73aafd19564a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PHASE_A" output
+			(at 227.33 52.07 0)
+			(uuid "6e666c31-f525-40d1-86eb-5bb923390c00")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PHASE_B" output
+			(at 227.33 59.69 0)
+			(uuid "58794557-f25a-43fb-9924-1cdd08271930")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PHASE_C" output
+			(at 227.33 66.04 0)
+			(uuid "c165724f-dbcd-49c1-b155-43f588d7b03f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PWM_AH" input
+			(at 198.12 43.18 180)
+			(uuid "bfc2cb3d-62fa-4f74-a496-b46823cdd50d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_AL" input
+			(at 198.12 48.26 180)
+			(uuid "f3a555a2-77db-4f25-a474-9d6970453292")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_BH" input
+			(at 198.12 53.34 180)
+			(uuid "65867ec8-b3b9-4063-9d2e-1d91bf18befd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_BL" input
+			(at 198.12 58.42 180)
+			(uuid "fa80456b-daa6-40d3-b141-be69080c91a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_CH" input
+			(at 198.12 63.5 180)
+			(uuid "f9751710-39cc-4b95-be3a-0f3c596934a4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PWM_CL" input
+			(at 198.12 68.58 180)
+			(uuid "85206864-2e7c-41ab-bb06-df464818aaa5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Shunt1_H" output
+			(at 198.12 76.2 180)
+			(uuid "bca1562e-e611-4f5b-8545-0e7bf3c9f420")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Shunt1_L" output
+			(at 198.12 78.74 180)
+			(uuid "7b3619db-3fad-46d6-84e8-7137b33b5976")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Shunt2_H" output
+			(at 198.12 81.28 180)
+			(uuid "ae3f351a-86f0-430c-99bb-f5d91b6fcdbc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "Shunt2_L" output
+			(at 198.12 83.82 180)
+			(uuid "600eb5f2-2b1b-4da7-ab35-006142be9112")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "drv_8302_300W"
+				(path "/bbb7fa89-2bc5-4f6b-b641-37d1094d6de4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8302DCAR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=57
+Version=1.1
+Released=2018-10-28 12:51:15
+Downloaded=2026-08-22 09:09:18
+3D=Y
