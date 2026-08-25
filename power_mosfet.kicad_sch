@@ -1616,7 +1616,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS"
+		(property "Value" "IPD25N06S4L30ATM"
 			(at 142.24 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1946,7 +1946,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS"
+		(property "Value" "IPD25N06S4L30ATM"
 			(at 82.55 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2354,7 +2354,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS"
+		(property "Value" "IPD25N06S4L30ATM"
 			(at 142.24 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2518,7 +2518,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS"
+		(property "Value" "IPD25N06S4L30ATM"
 			(at 219.71 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2682,7 +2682,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS"
+		(property "Value" "IPD25N06S4L30ATM"
 			(at 82.55 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2925,7 +2925,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS"
+		(property "Value" "IPD25N06S4L30ATM"
 			(at 219.71 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
